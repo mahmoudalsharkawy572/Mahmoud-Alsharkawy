@@ -11,20 +11,18 @@
   <a href="mailto:mahmoudalsharkawy572@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mahmoudalsharkawy572&style=for-the-badge&color=0e75b6" alt="profile views" />
 </p>
 
 ---
 
 ## About Me
 
-I'm a Computer Engineering graduate from **Mansoura University** and currently pursuing my **MSc at Politecnico di Milano**.
+I'm a Computer Engineering graduate from **Mansoura University**.
 
-I specialize in building scalable, maintainable backend systems with the .NET ecosystem. My focus is on applying solid software engineering principles — Clean Architecture, CQRS, and Domain-Driven Design — to real-world API projects.
+I specialize in building scalable, maintainable backend systems with the .NET ecosystem. My focus is on applying solid software engineering principles — Clean Architecture, CQRS to real-world API projects.
 
 - 🎯 Actively seeking my first professional **.NET Backend Developer** role
 - 🏗️ Passionate about Clean Architecture and well-structured codebases
-- 🧑‍🏫 Former instructor at **Bionic Software Camp** · Member of **CAT Reloaded**
 - 📍 Based in **Egypt** | Open to remote opportunities
 - 📞 +20 103 304 6192
 - 📧 mahmoudalsharkawy572@gmail.com
@@ -65,6 +63,7 @@ I specialize in building scalable, maintainable backend systems with the .NET ec
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Scalar](https://img.shields.io/badge/Scalar-000000?style=flat-square&logo=scalar&logoColor=white)
 
 ---
 
@@ -76,7 +75,7 @@ A full-featured multi-vendor marketplace backend built as a technical assessment
 - **Stack:** ASP.NET Core 8 · EF Core · SQL Server · ASP.NET Identity · JWT + Refresh Token Rotation
 - **Architecture:** Clean Architecture (Domain / Application / Infrastructure / API)
 - **Highlights:** EAV-style product variant system, role-based access control for buyers, vendors, and admins, full auth flow with refresh token rotation, Swagger documentation
-- 🔗 [View Repository](https://github.com/mahmoudalsharkawy572/Ecommerce_MultiVendorAPI)
+- 🔗 [View Repository](https://github.com/mahmoudalsharkawy572/E_Commerce_MultiVendorAPI.git)
 
 ---
 
@@ -86,6 +85,7 @@ A food ordering platform with basket management and a full order lifecycle.
 - **Stack:** ASP.NET Core 9 · EF Core · SQL Server · Redis · ASP.NET Identity
 - **Architecture:** Onion Architecture · Specification Pattern
 - **Highlights:** Redis-backed basket service, layered separation of concerns, clean generic repository with the Specification Pattern, JWT authentication
+-  🔗 [View Repository](https://github.com/mahmoudalsharkawy572/OnlineFoodOrder-API.git)
 
 ---
 
@@ -94,6 +94,7 @@ A villa booking system with a dedicated REST API and a separate ASP.NET Core MVC
 
 - **Stack:** ASP.NET Core · ASP.NET Core MVC · SQL Server · EF Core
 - **Highlights:** Clean client–server separation, API versioning, safe JSON deserialization, full booking management
+-  🔗 [View Repository](https://github.com/mahmoudalsharkawy572/RoyalVilla.git)
 
 ---
 
@@ -102,6 +103,7 @@ An ASP.NET Core MVC web application for managing and purchasing books, following
 
 - **Stack:** ASP.NET Core MVC · EF Core · SQL Server · ASP.NET Identity
 - **Highlights:** Role-based access (Admin / Customer), shopping cart, order management, Stripe payment integration, N-tier architecture
+-  🔗 [View Repository](https://github.com/mahmoudalsharkawy572/BulkyBookWeb.git)
 
 ---
 
@@ -121,6 +123,7 @@ An AI-powered desktop automation agent inspired by the ScreenSpot-Pro architectu
 - **Stack:** Python · Google Gemini 2.5 Flash (Planner) · Gemini Robotics ER 1.6 Preview (Grounder) · PyAutoGUI (Executor)
 - **Pipeline:** Planner → Grounder → Executor — natural language instruction is parsed into a plan, grounded to screen coordinates, then executed automatically
 - **Highlights:** Multi-model AI pipeline, vision-based UI element detection, zero reliance on UI accessibility APIs
+-  🔗 [View Repository](https://github.com/mahmoudalsharkawy572/Dynamic_Icon_Grounding_Automation.git)
 
 ---
 
